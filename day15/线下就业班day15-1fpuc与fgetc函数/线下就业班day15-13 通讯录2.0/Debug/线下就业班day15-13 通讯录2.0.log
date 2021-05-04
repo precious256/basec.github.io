@@ -1,0 +1,10 @@
+﻿  message.c
+G:\比特科技\c语言\day15\线下就业班day15-1fpuc与fgetc函数\线下就业班day15-13 通讯录2.0\message.c(113,3): warning C4033: “search”必须返回值
+G:\比特科技\c语言\day15\线下就业班day15-1fpuc与fgetc函数\线下就业班day15-13 通讯录2.0\message.c(118,14): warning C4047: “return”:“int”与“void *”的间接级别不同
+G:\比特科技\c语言\day15\线下就业班day15-1fpuc与fgetc函数\线下就业班day15-13 通讯录2.0\message.c(161,23): warning C4018: “<”: 有符号/无符号不匹配
+G:\比特科技\c语言\day15\线下就业班day15-1fpuc与fgetc函数\线下就业班day15-13 通讯录2.0\message.c(198,23): warning C4018: “<”: 有符号/无符号不匹配
+G:\比特科技\c语言\day15\线下就业班day15-1fpuc与fgetc函数\线下就业班day15-13 通讯录2.0\message.c(302,23): warning C4018: “<”: 有符号/无符号不匹配
+G:\比特科技\c语言\day15\线下就业班day15-1fpuc与fgetc函数\线下就业班day15-13 通讯录2.0\message.c(337,23): warning C4018: “<”: 有符号/无符号不匹配
+G:\比特科技\c语言\day15\线下就业班day15-1fpuc与fgetc函数\线下就业班day15-13 通讯录2.0\message.c(340,26): warning C4018: “<”: 有符号/无符号不匹配
+G:\比特科技\c语言\day15\线下就业班day15-1fpuc与fgetc函数\线下就业班day15-13 通讯录2.0\message.c(136): warning C4715: “search”: 不是所有的控件路径都返回值
+  线下就业班day15-13 通讯录2.0.vcxproj -> G:\比特科技\c语言\day15\线下就业班day15-1fpuc与fgetc函数\Debug\线下就业班day15-13 通讯录2.0.exe

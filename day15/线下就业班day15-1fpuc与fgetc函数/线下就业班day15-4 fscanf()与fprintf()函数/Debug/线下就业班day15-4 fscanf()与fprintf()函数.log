@@ -1,0 +1,4 @@
+﻿  线下就业班day15-4 fscanf()与fprintf()函数.c
+G:\比特科技\c语言\day15\线下就业班day15-1fpuc与fgetc函数\线下就业班day15-4 fscanf()与fprintf()函数\线下就业班day15-4 fscanf()与fprintf()函数.c(34,53): warning C4474: fprintf: 格式字符串中传递的参数太多
+G:\比特科技\c语言\day15\线下就业班day15-1fpuc与fgetc函数\线下就业班day15-4 fscanf()与fprintf()函数\线下就业班day15-4 fscanf()与fprintf()函数.c(34,53): message : 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+  线下就业班day15-4 fscanf()与fprintf()函数.vcxproj -> G:\比特科技\c语言\day15\线下就业班day15-1fpuc与fgetc函数\Debug\线下就业班day15-4 fscanf()与fprintf()函数.exe
