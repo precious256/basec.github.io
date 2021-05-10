@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线下就业班day3-1l数组去重", "线下就业班day3leecode刷题.vcxproj", "{0A596EE1-1A1D-4F9F-8BF3-4DC1458A7535}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线下就业班day3-2删除链表的某一特定元素", "..\线下就业班day3-2删除链表的某一特定元素\线下就业班day3-2删除链表的某一特定元素.vcxproj", "{E6C14A20-EC8A-45C1-9D63-1A7677F488AD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线下就业班day3-3合并两个有序的数组", "..\线下就业班day3-3合并两个有序的数组\线下就业班day3-3合并两个有序的数组.vcxproj", "{6FD53C18-CA9D-416E-AB87-BDDE061A3A58}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线下就业班day3-4旋转数组", "..\线下就业班day3-4旋转数组\线下就业班day3-4旋转数组.vcxproj", "{397A817D-81E1-4937-BE52-699263E3C80D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "线下就业班day3-5数组形式的加法", "..\线下就业班day3-5数组形式的加法\线下就业班day3-5数组形式的加法.vcxproj", "{C57B0A06-71EF-4239-8B07-CC4E2CE59DBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A596EE1-1A1D-4F9F-8BF3-4DC1458A7535}.Debug|x64.ActiveCfg = Debug|x64
+		{0A596EE1-1A1D-4F9F-8BF3-4DC1458A7535}.Debug|x64.Build.0 = Debug|x64
+		{0A596EE1-1A1D-4F9F-8BF3-4DC1458A7535}.Debug|x86.ActiveCfg = Debug|Win32
+		{0A596EE1-1A1D-4F9F-8BF3-4DC1458A7535}.Debug|x86.Build.0 = Debug|Win32
+		{0A596EE1-1A1D-4F9F-8BF3-4DC1458A7535}.Release|x64.ActiveCfg = Release|x64
+		{0A596EE1-1A1D-4F9F-8BF3-4DC1458A7535}.Release|x64.Build.0 = Release|x64
+		{0A596EE1-1A1D-4F9F-8BF3-4DC1458A7535}.Release|x86.ActiveCfg = Release|Win32
+		{0A596EE1-1A1D-4F9F-8BF3-4DC1458A7535}.Release|x86.Build.0 = Release|Win32
+		{E6C14A20-EC8A-45C1-9D63-1A7677F488AD}.Debug|x64.ActiveCfg = Debug|x64
+		{E6C14A20-EC8A-45C1-9D63-1A7677F488AD}.Debug|x64.Build.0 = Debug|x64
+		{E6C14A20-EC8A-45C1-9D63-1A7677F488AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{E6C14A20-EC8A-45C1-9D63-1A7677F488AD}.Debug|x86.Build.0 = Debug|Win32
+		{E6C14A20-EC8A-45C1-9D63-1A7677F488AD}.Release|x64.ActiveCfg = Release|x64
+		{E6C14A20-EC8A-45C1-9D63-1A7677F488AD}.Release|x64.Build.0 = Release|x64
+		{E6C14A20-EC8A-45C1-9D63-1A7677F488AD}.Release|x86.ActiveCfg = Release|Win32
+		{E6C14A20-EC8A-45C1-9D63-1A7677F488AD}.Release|x86.Build.0 = Release|Win32
+		{6FD53C18-CA9D-416E-AB87-BDDE061A3A58}.Debug|x64.ActiveCfg = Debug|x64
+		{6FD53C18-CA9D-416E-AB87-BDDE061A3A58}.Debug|x64.Build.0 = Debug|x64
+		{6FD53C18-CA9D-416E-AB87-BDDE061A3A58}.Debug|x86.ActiveCfg = Debug|Win32
+		{6FD53C18-CA9D-416E-AB87-BDDE061A3A58}.Debug|x86.Build.0 = Debug|Win32
+		{6FD53C18-CA9D-416E-AB87-BDDE061A3A58}.Release|x64.ActiveCfg = Release|x64
+		{6FD53C18-CA9D-416E-AB87-BDDE061A3A58}.Release|x64.Build.0 = Release|x64
+		{6FD53C18-CA9D-416E-AB87-BDDE061A3A58}.Release|x86.ActiveCfg = Release|Win32
+		{6FD53C18-CA9D-416E-AB87-BDDE061A3A58}.Release|x86.Build.0 = Release|Win32
+		{397A817D-81E1-4937-BE52-699263E3C80D}.Debug|x64.ActiveCfg = Debug|x64
+		{397A817D-81E1-4937-BE52-699263E3C80D}.Debug|x64.Build.0 = Debug|x64
+		{397A817D-81E1-4937-BE52-699263E3C80D}.Debug|x86.ActiveCfg = Debug|Win32
+		{397A817D-81E1-4937-BE52-699263E3C80D}.Debug|x86.Build.0 = Debug|Win32
+		{397A817D-81E1-4937-BE52-699263E3C80D}.Release|x64.ActiveCfg = Release|x64
+		{397A817D-81E1-4937-BE52-699263E3C80D}.Release|x64.Build.0 = Release|x64
+		{397A817D-81E1-4937-BE52-699263E3C80D}.Release|x86.ActiveCfg = Release|Win32
+		{397A817D-81E1-4937-BE52-699263E3C80D}.Release|x86.Build.0 = Release|Win32
+		{C57B0A06-71EF-4239-8B07-CC4E2CE59DBC}.Debug|x64.ActiveCfg = Debug|x64
+		{C57B0A06-71EF-4239-8B07-CC4E2CE59DBC}.Debug|x64.Build.0 = Debug|x64
+		{C57B0A06-71EF-4239-8B07-CC4E2CE59DBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{C57B0A06-71EF-4239-8B07-CC4E2CE59DBC}.Debug|x86.Build.0 = Debug|Win32
+		{C57B0A06-71EF-4239-8B07-CC4E2CE59DBC}.Release|x64.ActiveCfg = Release|x64
+		{C57B0A06-71EF-4239-8B07-CC4E2CE59DBC}.Release|x64.Build.0 = Release|x64
+		{C57B0A06-71EF-4239-8B07-CC4E2CE59DBC}.Release|x86.ActiveCfg = Release|Win32
+		{C57B0A06-71EF-4239-8B07-CC4E2CE59DBC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E25E6BA-3B69-4A4D-8133-2092D898A07D}
+	EndGlobalSection
+EndGlobal
