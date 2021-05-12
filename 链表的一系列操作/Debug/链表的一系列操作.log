@@ -1,0 +1,14 @@
+﻿  student.c
+G:\比特科技\数据结构\day4\链表\链表的一系列操作\student.c(6,34): warning C4013: “malloc”未定义；假设外部返回 int
+G:\比特科技\数据结构\day4\链表\链表的一系列操作\student.c(9,3): warning C4033: “init”必须返回值
+G:\比特科技\数据结构\day4\链表\链表的一系列操作\student.c(120,3): warning C4033: “Getelem”必须返回值
+G:\比特科技\数据结构\day4\链表\链表的一系列操作\student.c(160,7): warning C4013: “free”未定义；假设外部返回 int
+G:\比特科技\数据结构\day4\链表\链表的一系列操作\student.c(201,3): warning C4033: “find_middle”必须返回值
+G:\比特科技\数据结构\day4\链表\链表的一系列操作\student.c(220,3): warning C4033: “find_endnumber”必须返回值
+  链表的一系列操作.c
+  正在生成代码...
+G:\比特科技\数据结构\day4\链表\链表的一系列操作\student.c(16): warning C4715: “init”: 不是所有的控件路径都返回值
+G:\比特科技\数据结构\day4\链表\链表的一系列操作\student.c(137): warning C4716: “Getelem”: 必须返回一个值
+G:\比特科技\数据结构\day4\链表\链表的一系列操作\student.c(214): warning C4715: “find_middle”: 不是所有的控件路径都返回值
+G:\比特科技\数据结构\day4\链表\链表的一系列操作\student.c(243): warning C4715: “find_endnumber”: 不是所有的控件路径都返回值
+  链表的一系列操作.vcxproj -> G:\比特科技\数据结构\day4\链表\链表的一系列操作\Debug\链表的一系列操作.exe
