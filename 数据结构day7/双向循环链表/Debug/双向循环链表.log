@@ -1,0 +1,6 @@
+﻿  Dlist.c
+G:\比特科技\数据结构\数据结构day7\双向循环链表\Dlist.c(19,3): warning C4033: “my_malloc”必须返回值
+G:\比特科技\数据结构\数据结构day7\双向循环链表\Dlist.c(132,20): warning C4047: “=”:“LinkNode *”与“dlist *”的间接级别不同
+G:\比特科技\数据结构\数据结构day7\双向循环链表\Dlist.c(134,14): warning C4047: “=”:“LinkNode”与“LinkNode *”的间接级别不同
+G:\比特科技\数据结构\数据结构day7\双向循环链表\Dlist.c(25): warning C4715: “my_malloc”: 不是所有的控件路径都返回值
+  双向循环链表.vcxproj -> G:\比特科技\数据结构\数据结构day7\双向循环链表\Debug\双向循环链表.exe
