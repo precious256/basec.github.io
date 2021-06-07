@@ -1,0 +1,5 @@
+﻿  4-11 友元类.cpp
+G:\c++\4-11 友元类\4-11 友元类.cpp(8,28): error C2653: “student2”: 不是类或命名空间名称
+G:\c++\4-11 友元类\4-11 友元类.cpp(33,26): error C2248: “student::name”: 无法访问 private 成员(在“student”类中声明)
+G:\c++\4-11 友元类\4-11 友元类.cpp(24): message : 参见“student::name”的声明
+G:\c++\4-11 友元类\4-11 友元类.cpp(6): message : 参见“student”的声明
